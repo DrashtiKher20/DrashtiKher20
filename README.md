@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrashtiKher20
-- 👀 I’m interested in designing
+- 👀 I’m interested in designing and coding
 - 🌱 I’m currently learning designing
 - 📫 How to reach me via git
 
